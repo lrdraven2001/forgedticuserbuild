@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[118],{658:function(e,t,a){"use strict";a.r(t);var n=a(2),r=a.n(n),o=a(297),i=a(106),p=a(37),s=i.a.extend({template:"openam/ReturnToLoginTemplate",baseTemplate:"common/LoginBaseTemplate",data:{},render:function(){Object(o.b)();var e=p.a.getCurrentFragmentQueryString();this.data.params=e?"&".concat(e):"",this.data.title=r.a.t("templates.user.ReturnToLoginTemplate.unavailable"),this.parentRender()}});t.default=new s}}]);
+//# sourceMappingURL=118.9ef23c1499.js.map
