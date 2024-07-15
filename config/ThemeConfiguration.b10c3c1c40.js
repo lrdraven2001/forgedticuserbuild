@@ -3,14 +3,14 @@
 /***/ 632:
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "images/login-logo.64d0ecbc5d.png";
+module.exports = __webpack_require__.p + "images/login-logo.839433542d.png";
 
 /***/ }),
 
 /***/ 633:
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "images/logo-horizontal.962cf17d13.png";
+module.exports = __webpack_require__.p + "images/logo-horizontal.ded8b22423.png";
 
 /***/ }),
 
@@ -140,4 +140,4 @@ __webpack_require__.r(__webpack_exports__);
 /***/ })
 
 }]);
-//# sourceMappingURL=ThemeConfiguration.5f18de0c12.js.map
+//# sourceMappingURL=ThemeConfiguration.b10c3c1c40.js.map
